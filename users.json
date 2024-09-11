@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "first_name": "Constantino",
+        "last_name": "Newell",
+        "email": "cnewell0@g.co",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Loydie",
+        "last_name": "Adamou",
+        "email": "ladamou1@woothemes.com",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Morton",
+        "last_name": "Wetherhead",
+        "email": "mwetherhead2@histats.com",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Cyrill",
+        "last_name": "Tunnah",
+        "email": "ctunnah3@miibeian.gov.cn",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Karna",
+        "last_name": "Kollas",
+        "email": "kkollas4@dailymail.co.uk",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Sara",
+        "last_name": "Bravery",
+        "email": "sbravery5@macromedia.com",
+        "gender": "Agender"
+    },
+    {
+        "id": 7,
+        "first_name": "Royce",
+        "last_name": "Griffen",
+        "email": "rgriffen6@cnn.com",
+        "gender": "Male"
+    },
+    {
+        "id": 8,
+        "first_name": "Karita",
+        "last_name": "Cathro",
+        "email": "kcathro7@ning.com",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Salomon",
+        "last_name": "Sirman",
+        "email": "ssirman8@cocolog-nifty.com",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Darby",
+        "last_name": "Marson",
+        "email": "dmarson9@state.gov",
+        "gender": "Female"
+    },
+    {
+        "first_name": "Loydie",
+        "last_name": "Adamou",
+        "email": "ladamou1@woothemes.com",
+        "gender": "Male",
+        "id": 11
+    }
+]
